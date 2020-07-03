@@ -2,8 +2,15 @@
 
 PART A
 ABC Investment Bank Ltd wants to utilise social media and other data feeds to produce trading strategies and portfolio rebalancing decisions to give them a competitive advantage.
-The Bank needs an IT solution that will inform them whether they should buy, sell or hold  a Financial Instruments. A Financial Instrument are products like Equity shares (eg Tesco share), Government Bonds (IOU issued by sovereign government eg UK Gilts), Corporate Bonds (eg IOU issued by a Corporate), Commodities (eg Oil, Gold) and these are traded in different Currencies and Markets globally.  Traditionally, trading strategies are devised  manually by Analysts in the Bank's Research team. These Analyst are very expensive to employ and do not always have a great track record of detecting market trends in a timely manner. The Bank Business Head feels there is scope to improve how it makes such important trading decisions as it can have a significant effect on the success or failure of an institution. Not only will this information be used by the Bank to buy, sell or hold various Financial Instruments, but it will also be used in advising the Bank Clients in managing their portfolios to match their risk appetite. The Bank Clients are Pensions funds, Insurance companies, Hedge funds, High net individuals. The Financial Products covered are global in nature eg shares from US, like Google, Ford to UK shares eg HSBC, Next  to Indian shares eg Reliance Industries, to Australian shares eg Northern star resources , etc.
-The sources of data to produce this Trading decision  will be from Social media, Market data, Online news feed, Broker notes, Corporate data. For example, if a Company has increased mentions on Twitter its share price and market performance tends to increase. But this information should not be used purely in isolation and should be used in conjunction with Market data, Corporate data, etc. The Bank's internal enterprise systems containing Corporate Data, Market Data, Broker Notes is mainly built on Relational Databases (Oracle and MS SQL Server).   
+The Bank needs an IT solution that will inform them whether they should buy, sell or hold  a Financial Instruments. A Financial Instrument are products like Equity shares (eg Tesco share), Government Bonds (IOU issued by sovereign government eg UK Gilts), Corporate Bonds (eg IOU issued by a Corporate), 
+Commodities (eg Oil, Gold) and these are traded in different Currencies and Markets globally.  Traditionally, trading strategies are devised  manually by Analysts
+in the Bank's Research team. These Analyst are very expensive to employ and do not always have a great track record of detecting market trends in a timely manner. 
+The Bank Business Head feels there is scope to improve how it makes such important trading decisions as it can have a significant effect on the success or failure of an institution. Not only will this information be used by the Bank to buy, sell or hold various Financial Instruments, but it will also be used in advising the Bank Clients in managing their portfolios to match their risk appetite. The Bank Clients are Pensions funds, Insurance companies, 
+Hedge funds, High net individuals. The Financial Products covered are global in nature eg shares from US, like Google, Ford to UK shares eg HSBC, Next  to Indian shares eg Reliance Industries, to Australian shares eg Northern star resources , etc.
+The sources of data to produce this Trading decision  will be from Social media, Market data, Online news feed, Broker notes,
+Corporate data. For example, if a Company has increased mentions on Twitter its share price and market performance tends to increase. 
+But this information should not be used purely in isolation and should be used in conjunction with Market data, Corporate data, etc.
+The Bank's internal enterprise systems containing Corporate Data, Market Data, Broker Notes is mainly built on Relational Databases (Oracle and MS SQL Server).   
 Example Data would be:
 	Streaming: Click Stream, Streaming Financial product prices (from Market data vendors like Bloomberg)
 	Batch: Call Detail Records 
@@ -41,3 +48,4 @@ PART B
 
 2/ Compare and contrast Hadoop and Relational Database system
     										           
+# solution can can be found in the pdf above.
